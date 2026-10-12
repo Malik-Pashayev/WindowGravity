@@ -2,8 +2,7 @@
 
 **Your Windows desktop, but with physics.** Grab any window, fling it, let go, and watch it fly, bounce off the screen edges and crash onto the taskbar. Throw a second one and it lands *on top of* the first.
 
-<!-- Record a GIF with ScreenToGif (https://www.screentogif.com) and drop it here: -->
-<!-- ![demo](docs/demo.gif) -->
+![Window Gravity demo](docs/demo.gif)
 
 ## Features
 
