@@ -32,7 +32,7 @@ Download `WindowGravity.exe` from [Releases](../../releases) and double-click it
 Or build it yourself:
 
 ```powershell
-git clone https://github.com/malikpasayev/WindowGravity.git
+git clone https://github.com/Malik-Pashayev/WindowGravity.git
 cd WindowGravity
 dotnet run --project src/WindowGravity
 ```
